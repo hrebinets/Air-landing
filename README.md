@@ -7,4 +7,4 @@ Simple JavaScript for basic interactivity.
 SCSS for clean and maintainable styles.
 
   - [DEMO LINK](https://hrebinets.github.io/Air-landing/)
-  - [Design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0-1&p=f&t=6IcJydfoNsyNIK1I-0)
+  - [Design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
